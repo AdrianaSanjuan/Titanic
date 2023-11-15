@@ -2,12 +2,14 @@
 
 ## Module project: Titanic
 
-El objetivo del projecto es llevar a cabo un análisis completo del conjunto de datos facilitado sobre el  accidente del Titanic.
-Para ello, primero se ha procedido a la limpieza del dataset a través del tratamiento de valores nulos.
+The aim of this project is to carry out a complete analysis of the provided dataset about the Titanic accident. For this purpose, a data cleaning was made through the null values and outliers.
+
 
 ## Complementary analysis
 
-Además del análisis principal, el proyecto también presenta un análisis complementario sobre el rescate de los pasajeros. Para ello, se ha extraido la información de la siguiente página: https://es.wikipedia.org/wiki/Hundimiento_del_RMS_Titanic
+In addition to the main analysis, the project also presents a complementary analysis of passenger rescue. For this, the information has been extracted from the following web page:
+
+https://es.wikipedia.org/wiki/Hundimiento_del_RMS_Titanic
 
 ## Contributions
 
